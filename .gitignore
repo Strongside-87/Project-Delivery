@@ -1,3 +1,4 @@
 .history/*
 *.pyc
 individual_works/*
+*.json
